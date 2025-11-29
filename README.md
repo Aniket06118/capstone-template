@@ -34,6 +34,18 @@ The first purpose of the capstone project is to give a chance to revise all the 
 
 Expain how this project is aligned with this course content.
 
+## Video Summary Link: 
+
+Make a short -  3-5 min video of yourself, put it on youtube/googledrive, and put its link in your README.md.
+
+- you can use this free tool for recording https://screenrec.com/
+- Video format should be like this:
+- your face should be visible
+- State the overall job of your agent: what inputs it takes, and what output it gives.
+- Very quickly, explain how your agent acts on the input and spits out the output. 
+- show an example run of the agent in the video
+
+
 ## Plan
 
 I plan to excecute these steps to complete my project.
@@ -61,7 +73,7 @@ I had planned to achieve {this this}. I think I have/have-not achieved the concl
   - The commit history should show decent amount of work spread into minimum two dates. 
   - **All the commits done in one day will be rejected**. Even if you are capable of doing the whole thing in one day, refine it in two days.  
  
- - Deadline: Nov 30, Sunday 11:59 pm
+ - Deadline: Dec 2nd, Tuesday 11:59 pm
 
 
 # Grading: total 25 marks
