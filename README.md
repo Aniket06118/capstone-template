@@ -64,13 +64,13 @@ I plan to execute these steps to complete my project:
 - [DONE] Step 6: Build the graph — add nodes, edges, conditional edges, and connect START/END.
 - [DONE] Step 7: Add a checkpointer to enable threaded conversation memory.
 - [DONE] Step 8: Compile the workflow and test base chatbot with web search.
-- [TODO] Step 9: Add PDF loader and split it into chunks using the "RecursiveCharacterTextSplitter"
-- [TODO] Step 10: use a embeddings model to convert chunks into embeddings and store it in a vector db
-- [TODO] Step 11: Add a Retriever 
-- [TODO] Step 9:  make a tool named search_pdf using the @tool decorator 
-- [TODO] Step 12: Integrate RAG into the final response pipeline.
-- [TODO] Step 13: Build a final interface using streamlit.
-- [TODO] Step 14: Thoroughly test and refine model routing, tool usage, and RAG.
+- [DONE] Step 9: Add PDF loader and split it into chunks using the "RecursiveCharacterTextSplitter"
+- [DONE] Step 10: use a embeddings model to convert chunks into embeddings and store it in a vector db
+- [DONE] Step 11: Add a Retriever 
+- [DONE] Step 9:  make a tool named search_pdf using the @tool decorator 
+- [DONE] Step 12: Integrate RAG into the final response pipeline.
+- [DONE] Step 13: Build a final interface using streamlit.
+- [DONE] Step 14: Thoroughly test and refine model routing, tool usage, and RAG.
 
 ## Conclusion:
 I had planned to build a LangGraph-based chatbot capable of intelligent conversation and web search, while also preparing the foundation for a future RAG pipeline.
