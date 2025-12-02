@@ -24,6 +24,9 @@ The first purpose of the capstone project is to give a chance to revise all the 
 
 # Project report Template
 
+# Video link 
+- https://youtu.be/t4inMFCP_Ko
+
 ## Title: [Chatbot with Web Search RAG Capabilities]
 
 ## Overview
