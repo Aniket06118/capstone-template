@@ -90,8 +90,4 @@ With more time, I can complete PDF-based retrieval, making the chatbot capable o
 ----------
 
 
-# Grading: total 25 marks
-
-- Coverage of most of topics in this class: 20
-- Creativity: 5
   
